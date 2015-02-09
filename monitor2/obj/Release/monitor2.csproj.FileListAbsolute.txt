@@ -1,0 +1,9 @@
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\bin\Release\monitor2.exe.config
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\bin\Release\monitor2.exe
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\bin\Release\monitor2.pdb
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Release\monitor2.Form1.resources
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Release\monitor2.monitoringControl.resources
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Release\monitor2.Properties.Resources.resources
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Release\monitor2.csproj.GenerateResource.Cache
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Release\monitor2.exe
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Release\monitor2.pdb

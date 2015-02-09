@@ -1,0 +1,10 @@
+c:\users\дима\documents\visual studio 2013\Projects\monitor2\monitor2\bin\Debug\monitor2.exe.config
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\bin\Debug\monitor2.exe
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\bin\Debug\monitor2.pdb
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.csprojResolveAssemblyReference.cache
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.Form1.resources
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.monitoringControl.resources
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.Properties.Resources.resources
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.csproj.GenerateResource.Cache
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.exe
+C:\Users\Дима\documents\visual studio 2013\Projects\monitor2\monitor2\obj\Debug\monitor2.pdb
